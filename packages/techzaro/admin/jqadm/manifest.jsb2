@@ -1,0 +1,22 @@
+{
+	"projectName": "techzaro",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "techzaro CSS",
+		"file": "techzaro.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "techzaro JS",
+		"file": "techzaro.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "js/"
+		}]
+	}],
+	"resources" : []
+}
